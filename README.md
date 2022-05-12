@@ -1,12 +1,23 @@
-- 👋 &nbsp;Hi,I’m @EslimDaga
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+I'm a self-taught passionate FrontEnd developer from Peruvian 🇵🇪
 
-<!---
-EslimDaga/EslimDaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About me**
+
+- 📖 &nbsp;FrontEnd Developer
+
+- 👨🏻‍🎓 &nbsp;Software Engineering Student
+
+- ❤️ &nbsp;I love writing Javascript, and building projects creative projects
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+| <a href="https://github.com/eslimdaga"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eslimdaga&show_icons=true&include_all_commits=true&theme=radical&title_color='#AAAAAA'&hide_border=true" alt="Eslim Daga's github stats" /></a> | <a href="https://github.com/eslimdaga"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslimdaga&layout=compact&theme=radical&title_color='#AAAAAA'&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+
+<a href="https://twitter.com/eslimdaga">
+  <img align="right" alt="Eslim Daga | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
