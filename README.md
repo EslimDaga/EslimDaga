@@ -2,7 +2,7 @@ I'm a self-taught passionate FrontEnd developer from Peruvian 🇵🇪
 
 **About me**
 
-- 📖 &nbsp;FrontEnd Developer
+- 📖 &nbsp;Frontend Developer
 
 - 👨🏻‍🎓 &nbsp;Software Engineering Student
 
